@@ -1,5 +1,3 @@
-mod 'puppetlabs-apache', '3.1.0'
-mod 'puppet-nginx', '0.11.0'
 mod 'puppetlabs-stdlib', '4.25.0'
 mod 'puppetlabs-ntp', '7.1.1'
-mod 'puppetlabs-concat', '4.2.1'
+mod 'puppet-yum', '2.2.0'
