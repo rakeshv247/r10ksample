@@ -1,7 +1,7 @@
 node default {
-    include apache
+    include stdlib
     include ntp
-    include nginx
+    include yum
 
     file { '/etc/sample.txt':
         ensure  => present,
